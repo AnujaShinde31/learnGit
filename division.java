@@ -4,7 +4,7 @@ class division {
         int a = 20;
         int b = 10;
 
-        System.out.println("The addition is " + (a+b));
+        System.out.println("The division is " + (a/b));
     }
     
 }
